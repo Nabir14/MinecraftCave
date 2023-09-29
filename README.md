@@ -5,6 +5,9 @@ This is kinda like a game I made while learning sfml c++. In this game player is
 
 # Screenshot:
 
-![Uploading minecractcave.png…]()
+![minecractcave](https://github.com/Nabir14/MinecraftCave/assets/82253045/0a0ea468-b05d-44b9-aa7c-5d2218c52240)
+
+
+
 
 
